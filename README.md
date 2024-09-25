@@ -1,4 +1,4 @@
-# 🚗 Proyecto: Desarrollo de una Aplicación Web con Datos de Venta de Coches
+# 🚗 Desarrollo de una Aplicación Web con Datos de Venta de Coches
 
 ## Descripción del Proyecto
 
