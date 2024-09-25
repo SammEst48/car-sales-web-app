@@ -33,18 +33,20 @@ Aunque el conjunto de datos proporcionado se centra en anuncios de venta de coch
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/SammEst48/car-sales-web-app.git
-2. Crear un entorno virtual:
+
+2. Crea un entorno virtual y activa el entorno:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # En Windows, usa: venv\Scripts\activate
-
-3. Instalar dependencias:
+   source venv/bin/activate  # En Linux/Mac
+   venv\Scripts\activate      # En Windows
+ 
+3. Instala las dependencias necesarias:
    ```bash
    pip install -r requirements.txt
 
-5. Ejecutar la aplicación:
+4. Ejecutar la aplicación:
    ```bash
    flask run
 
-7. Acceder a la aplicación desde el navegador en http://localhost:5000.
+5. Acceder a la aplicación desde el navegador en http://localhost:5000.
 
