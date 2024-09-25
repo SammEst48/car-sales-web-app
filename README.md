@@ -32,8 +32,7 @@ Aunque el conjunto de datos proporcionado se centra en anuncios de venta de coch
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
-
+   git clone https://github.com/SammEst48/car-sales-web-app.git
 2. Crear un entorno virtual:
    ```bash
    python -m venv venv
